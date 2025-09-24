@@ -40,10 +40,11 @@
 }
 #box-4{
 	grid-area:box-4;
-	
+	grid-column: span 2 / auto;
 }
 #box-5{
 grid-area:box-5;
+	grid-column: span 2 / auto;
 }
 #box-6{
 	grid-area:box-6;
@@ -59,4 +60,5 @@ grid-area:box-5;
 }
 #box-10{
 	grid-area:box-10;
+	grid-column: span 3 / auto;
 }
