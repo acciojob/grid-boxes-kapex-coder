@@ -13,8 +13,8 @@
 	    "box-2 box-5 box-5 box-6"
 	    "box-2 box-7 box-8 box-9"
 	    "box-2 box-10 box-10 box-10";
-	grid-template-columns: 1fr 1fr 1fr 1fr;
-	grid-template-rows: 1fr 1fr 1fr 1fr;
+	grid-template-columns: 242.5px 242.5px 242.5px 242.5px;
+	grid-template-rows: 124px 124px 124px 124px 124px;
 	grid-gap: 10px 10px;
 }
 
