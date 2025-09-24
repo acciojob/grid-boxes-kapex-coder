@@ -26,10 +26,12 @@
 
 #box-1{
 	grid-area:box-1;
+	grid-column: span 4 / auto;
 	
 }
 #box-2{
 	grid-area:box-2;
+	grid-row: span 4 / auto;
 }
 
 #box-3{
